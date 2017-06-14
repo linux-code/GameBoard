@@ -1,0 +1,17 @@
+#board{
+  margin : 50px;
+}
+.cell {
+  border: 1px solid black;
+  height:100px;
+  width:100px;
+  float: left;
+}
+
+#cellInlile {
+  display:inline;
+}
+
+#cellBlock {
+  display: block;
+}
